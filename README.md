@@ -4,7 +4,7 @@ In a nutshell, there are a lot of FOSS games being made that no one hears about,
 ___
 
 # E
-[Empty Epsilon](https://daid.github.io/EmptyEpsilon/) - EmptyEpsilon is a spaceship bridge simulator game. It's fully open source, so it can be modified in any way people wish.
+[Empty Epsilon](https://daid.github.io/EmptyEpsilon/) - EmptyEpsilon is a spaceship bridge simulator game.
 
 # F
 [Fire and Fondness 2](https://bitbucket.org/JohnGabrielUK/fire-and-fondness-2/) - A puzzle game featuring romance, explosions, and daytime television.
