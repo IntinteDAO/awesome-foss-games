@@ -1,4 +1,4 @@
-#Why?
+# Why?
 In a nutshell, there are a lot of FOSS games being made that no one hears about, they are not on LibreGameWiki, and someone is making them. This project is simply to make a list (if possible) of all FOSS games. Maybe one day someone will make a Flatpak package, maybe add entries on LibreGameWiki, or maybe someone will test the game and like it.
 
 ___
