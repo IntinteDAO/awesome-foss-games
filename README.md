@@ -34,6 +34,8 @@ ___
 
 [Supertux Advance](https://github.com/KelvinShadewing/supertux-advance) - A SuperTux game made in Brux GDK with 16bit-style graphics.
 
+[Suroi](https://github.com/HasangerGames/suroi) - An open-source 2D battle royale game inspired by surviv.io.
+
 # T
 [The-Derby](https://github.com/Vega-Boo/The-Derby) - This is an arcade-style horse racing game, inspired by Konami's Track and Field.
 
