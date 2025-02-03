@@ -24,6 +24,9 @@ ___
 
 [Free Abuse](https://github.com/IntinteDAO/fRaBs) - Free Abuse (fRaBs), Abuse game asset based on the demo of the original game (Abuse) augmented by community scripts and maps, making fRaBs a full-fledged alternative version of the Abuse game created by "Crack Dot Com".
 
+# H
+[Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++
+
 # L
 [Librerama](https://librerama.codeberg.page) - Librerama is a free/libre arcade compilation of very small, fast-paced mini-game
 
