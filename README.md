@@ -31,6 +31,8 @@ ___
 [Librerama](https://librerama.codeberg.page) - Librerama is a free/libre arcade compilation of very small, fast-paced mini-game
 
 # S
+[Ski Jump International v3](https://github.com/suomipelit/skijump3-sdl) - A computer arcade game about ski jumping, designed for personal computers.
+
 [Speed Dreams](https://speed-dreams.net) - Motorsport Simulator featuring high-quality 3D graphics and an accurate physics engine, all targeting maximum realism.
 
 [Stunt Rally](https://stuntrally.tuxfamily.org/) - Stunt Rally is a 3D racing game with Sci-Fi elements
