@@ -44,6 +44,10 @@ ___
 # T
 [The-Derby](https://github.com/Vega-Boo/The-Derby) - This is an arcade-style horse racing game, inspired by Konami's Track and Field.
 
+# W
+[Wasted!](https://wastedgames.codeberg.page) - Wasted is a cool derby destruction online game where your objective is to push enemies off the map.
+
+
 ___
 
 # Observe this creators:
