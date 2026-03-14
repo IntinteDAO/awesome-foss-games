@@ -29,22 +29,30 @@ ___
 # H
 [Hypersomnia](https://github.com/TeamHypersomnia/Hypersomnia) - Multiplayer top-down shooter made from scratch in C++
 
+# I
+[Iter Vehemens ad Necem (IVAN)](https://github.com/suomipelit/ivan) - Iter Vehemens ad Necem (IVAN) is a graphical roguelike game featuring advanced bodypart and material handling, multi-colored lighting, and, above all, deep gameplay.
+
+# K
+[KOPS](https://github.com/suomipelit/kops) - Gravitational 2D shooter game from the 90's.
+
 # L
 [Librerama](https://librerama.codeberg.page) - Librerama is a free/libre arcade compilation of very small, fast-paced mini-game
 
 # S
-[Ski Jump International v3](https://github.com/suomipelit/skijump3-sdl) - A computer arcade game about ski jumping, designed for personal computers.
+[Ski Jump International v3](https://github.com/suomipelit/skijump3-sdl) - A computer arcade game about ski jumping, designed for personal computers.[Speed Dreams](https://speed-dreams.net) - Motorsport Simulator featuring high-quality 3D graphics and an accurate physics engine, all targeting maximum realism.
 
-[Speed Dreams](https://speed-dreams.net) - Motorsport Simulator featuring high-quality 3D graphics and an accurate physics engine, all targeting maximum realism.
-
-[Stunt Rally](https://stuntrally.tuxfamily.org/) - Stunt Rally is a 3D racing game with Sci-Fi elements
-
-[Supertux Advance](https://github.com/KelvinShadewing/supertux-advance) - A SuperTux game made in Brux GDK with 16bit-style graphics.
+[Stunt Rally](https://stuntrally.tuxfamily.org/) - Stunt Rally is a 3D racing game with Sci-Fi elements[Supertux Advance](https://github.com/KelvinShadewing/supertux-advance) - A SuperTux game made in Brux GDK with 16bit-style graphics.
 
 [Suroi](https://github.com/HasangerGames/suroi) - An open-source 2D battle royale game inspired by surviv.io.
 
 # T
+[Tapan Kaikki 4: Bloodshed](https://github.com/suomipelit/tapankaikki4) - Open source port of Tapan Kaikki 4: Bloodshed. It is a top view shooter game where the sole purpose is to kill everything that moves.
+
 [The-Derby](https://github.com/Vega-Boo/The-Derby) - This is an arcade-style horse racing game, inspired by Konami's Track and Field.
+
+[Triplane Classic](https://github.com/suomipelit/triplane) - Triplane Classic is a side-scrolling dogfighting game featuring solo missions and multiplayer mode with up to four players.
+
+# U[Ultimate Tapan Kaikki](https://github.com/suomipelit/ultimatetapankaikki) - Open source port of Ultimate Tapan Kaikki, a classic 90s top-down shoot-em-up game.
 
 # W
 [Wasted!](https://wastedgames.codeberg.page) - Wasted is a cool derby destruction online game where your objective is to push enemies off the map.
@@ -54,3 +62,5 @@ ___
 
 # Observe this creators:
 [KelvinShadewing](https://github.com/KelvinShadewing)
+
+[suomipelit](https://github.com/suomipelit)
