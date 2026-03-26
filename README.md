@@ -39,7 +39,7 @@ ___
 
 # I
 
-*[Iter Vehemens ad Necem (IVAN)](https://github.com/suomipelit/ivan) - Iter Vehemens ad Necem (IVAN) is a graphical roguelike game featuring advanced bodypart and material handling, multi-colored lighting, and, above all, deep gameplay.
+* [Iter Vehemens ad Necem (IVAN)](https://github.com/suomipelit/ivan) - Iter Vehemens ad Necem (IVAN) is a graphical roguelike game featuring advanced bodypart and material handling, multi-colored lighting, and, above all, deep gameplay.
 
 # K
 
@@ -48,6 +48,7 @@ ___
 # L
 
 * [Librerama](https://librerama.codeberg.page) - Librerama is a free/libre arcade compilation of very small, fast-paced mini-games.
+* [Licar](https://drummyfish.itch.io/licar) - A public domain, minimalist 3D stunt racing game made completely from scratch without third-party libraries.
 
 # N
 
@@ -55,12 +56,12 @@ ___
 
 # P
 
-*[Plankter](https://codeberg.org/supercell/Plankter) - A short story set in space.
+* [Plankter](https://codeberg.org/supercell/Plankter) - A short story set in space.
 * [Pure Ski Jumping](https://github.com/Yacubane/pure-ski-jumping) - Ski Jumping game with semi-realistic physics simulation and flat design graphics.
 
 # S
 
-*[Ski Jump International v3](https://github.com/suomipelit/skijump3-sdl) - A computer arcade game about ski jumping, designed for personal computers.
+* [Ski Jump International v3](https://github.com/suomipelit/skijump3-sdl) - A computer arcade game about ski jumping, designed for personal computers.
 * [Speed Dreams](https://speed-dreams.net) - Motorsport Simulator featuring high-quality 3D graphics and an accurate physics engine, all targeting maximum realism.
 * [Stunt Rally](https://stuntrally.tuxfamily.org/) - Stunt Rally is a 3D racing game with Sci-Fi elements.
 * [Supertux Advance](https://github.com/KelvinShadewing/supertux-advance) - A SuperTux game made in Brux GDK with 16bit-style graphics.
@@ -69,7 +70,7 @@ ___
 # T
 
 * [Tapan Kaikki 4: Bloodshed](https://github.com/suomipelit/tapankaikki4) - Open source port of Tapan Kaikki 4: Bloodshed. It is a top view shooter game where the sole purpose is to kill everything that moves.
-*[The-Derby](https://github.com/Vega-Boo/The-Derby) - This is an arcade-style horse racing game, inspired by Konami's Track and Field.
+* [The-Derby](https://github.com/Vega-Boo/The-Derby) - This is an arcade-style horse racing game, inspired by Konami's Track and Field.
 * [Triplane Classic](https://github.com/suomipelit/triplane) - Triplane Classic is a side-scrolling dogfighting game featuring solo missions and multiplayer mode with up to four players.
 
 # U
@@ -84,11 +85,12 @@ ___
 
 # Observe these creators:
 
+* [drummyfish](https://drummyfish.itch.io)
 * [hurrycurry](https://codeberg.org/hurrycurry)
-*[KelvinShadewing](https://github.com/KelvinShadewing)
-*[macoy](https://macoy.me/code/macoy)
+* [KelvinShadewing](https://github.com/KelvinShadewing)
+* [macoy](https://macoy.me/code/macoy)
 * [neilsimp1](https://gitlab.com/neilsimp1)
 * [SethPatterson](https://codeberg.org/SethPatterson)
 * [suomipelit](https://github.com/suomipelit)
-*[supercell](https://codeberg.org/supercell)
+* [supercell](https://codeberg.org/supercell)
 * [Yacubane](https://github.com/Yacubane)
